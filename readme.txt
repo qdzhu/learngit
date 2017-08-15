@@ -1,6 +1,6 @@
 California is
 Colorado
 Indiana
-Pennsylvania is
+Pennsylvania
 Oklahoma
 Oregon
