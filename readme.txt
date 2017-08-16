@@ -1,6 +1,7 @@
-California is
-Colorado
-Indiana
-Pennsylvania
-Oklahoma
-Oregon
+Sunday
+Monday
+Tuesday
+Wednesday
+Thursday
+Friday
+Saturday
